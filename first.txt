@@ -4,4 +4,10 @@ fifth line
 second line
 >>>>>>> parent of ca3f1a4... Revert "my fifth commit"
 third line
+<<<<<<< HEAD
 eighth change or so
+=======
+fourth
+savannah line
+>>>>>>> 59260746fb731941efcb32bebb49f7b322b3ca55
+change 8
